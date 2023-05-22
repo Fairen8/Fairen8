@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="">Alexander</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a student from Russia</h3>
+<! добавить информацию о себе(Языки, технологии и курсы) -->
 
-<!--
-**Fairen8/Fairen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairen8&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fairen8&theme=chartreuse_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairen8&theme=chartreuse_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fairen8&theme=dark)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+[![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
