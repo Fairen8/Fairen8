@@ -10,4 +10,3 @@
 [![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
 
 
-
