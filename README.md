@@ -8,5 +8,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fairen8&theme=dark)](https://git.io/streak-stats)
 
 [![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
-
-
