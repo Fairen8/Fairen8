@@ -50,3 +50,8 @@ projects!
 
 [![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
 
+<hr>
+<p><em>
+<strong>P.S</strong> If you have any suggestions, feel free to write to me
+</em></p>
+
