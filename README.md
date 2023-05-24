@@ -1,7 +1,18 @@
 <h1 align="center">Hi there, I'm <a href="">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><span>👨‍💻</span>About me</h3>
-<p>my biography</p>
+<p>
+I am a novice Backend developer. 
+My journey started with learning python,
+but after three months of training, 
+I realized that this was not enough 
+and started learning HTML, Java, SQL 
+and I'm not going to stop. In the future 
+I'm going to become a Fullstack developer.
+At the moment I am still studying, 
+but I am ready to participate in interesting 
+projects!
+</p>
 <p align="right"><em>How to contact me: </em>
 <a href="https://discordapp.com/users/847479130488569886/"><img width="20" height="20" src="pictures/discord.png"></a>
 <a href="https://t.me/Fairen8"><img width="20" height="20" src="pictures/telegram.png"></a>
