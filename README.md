@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<hr>
-<h3><span>👨‍💻</span>About me:</h3>
+<h3 align="center"><span>👨‍💻</span>About me</h3>
 <p>my biography</p>
 <p align="right"><em>How to contact me: </em>
 <a href="https://discordapp.com/users/847479130488569886/"><img width="20" height="20" src="pictures/discord.png"></a>
@@ -9,7 +8,7 @@
 <a href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures/whatsapp.png"></a>
 </p>
 <hr>
-<h3><span>💻</span>Technologies and tools:</h3>
+<h3 align="center"><span>💻</span>Technologies and tools</h3>
 <div>
 <img title="Java" width="80" height="80" src="pictures/Java.png">
 <img title="Python" width="80" height="80" src="pictures/Python.png">
@@ -22,12 +21,21 @@
 <img title="Visual Studio Code" width="80" height="80" src="pictures/Visual_Studio_Code.png">
 </div>
 <hr>
-<h3><span>📚</span>Сourses</h3>
+<h3 align="center"><span>🎓</span>Сourses</h3>
 <table>
-<tr><th>Platform</th><th>Training course</th><th>programming language</th><th>Certificate or diploma</th></tr>
+<tr><th>Platform</th><th>Training course</th><th>Programming language</th><th>Certificate or diploma</th></tr>
 <tr><td>Mimo</td><td><a href="https://mimo.org/web/194/section/0">HTML</a></td><td>HTML</td><td><a href="https://disk.yandex.ru/i/gyYKdQh8GW0iUg">Certificate</a></td></tr>
 </table>
 <hr>
+<h3 align="center"><span>📚</span>Codewars</h3>
+
+[![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
+
+<h3 align="center"><span>⚙️</span>GitHub statistics</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairen8&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fairen8&theme=chartreuse_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairen8&theme=chartreuse_dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fairen8&theme=dark)](https://git.io/streak-stats)
 
 
 
