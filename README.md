@@ -21,5 +21,13 @@
 <img title="InteliJ" width="80" height="80" src="pictures/InteliJ.png">
 <img title="Visual Studio Code" width="80" height="80" src="pictures/Visual_Studio_Code.png">
 </div>
+<hr>
+<h3><span>📚</span>Сourses</h3>
+<table>
+<tr><th>Platform</th><th>Training course</th><th>programming language</th><th>Certificate or diploma</th></tr>
+<tr><td>Mimo</td><td><a href="https://mimo.org/web/194/section/0">HTML</a></td><td>HTML</td><td><a href="https://disk.yandex.ru/i/gyYKdQh8GW0iUg">Certificate</a></td></tr>
+</table>
+<hr>
+
 
 
