@@ -9,8 +9,8 @@ href="https://t.me/Fairen8"><img width="20" height="20" src="pictures/telegram.p
 href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures/whatsapp.png"></a>
 </p>
 <hr>
-<h3><span>💻</span>Technologies and tools:</h3>
-<img width="50" height="50" src="pictures/Java.png">
+<h3><span>💻</span>Technologies and tools:</h3><
+img width="50" height="50" src="pictures/Java.png">
 <img width="50" height="50" src="pictures/Java.png">
 <img width="50" height="50" src="pictures/Java.png">
 <img width="50" height="50" src="pictures/Java.png">
