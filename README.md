@@ -27,26 +27,15 @@
 <tr><td>Mimo</td><td><a href="https://mimo.org/web/194/section/0">HTML</a></td><td>HTML</td><td><a href="https://disk.yandex.ru/i/gyYKdQh8GW0iUg">Certificate</a></td></tr>
 </table>
 <hr>
-<h3 align="center"><span>📚</span>Codewars</h3>
-<style type="text/css">
-   #centerLayer {
-    margin-left: 30%; 
-    width: 40%; 
-    padding: 10px;
-   }
-  </style>
-<div id="centerLayer">
 
-[![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
-
-</div>
 <h3 align="center"><span>⚙️</span>GitHub statistics</h3>
-<div id="centerLayer">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairen8&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fairen8&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairen8&theme=chartreuse_dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fairen8&theme=dark)](https://git.io/streak-stats)
 
-</div>
+<h3><span>📚</span>Codewars:</h3>
+
+[![codewars](https://www.codewars.com/users/Fairen8/badges/large)](https://www.codewars.com/users/Fairen8)
 
