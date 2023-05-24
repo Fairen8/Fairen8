@@ -11,7 +11,7 @@ href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures
 <hr>
 <h3><span>💻</span>Technologies and tools:</h3>
 <div>
-<img width="80" height="80" src="pictures/Java.png">
+<img title="Java" width="80" height="80" src="pictures/Java.png">
 <img width="80" height="80" src="pictures/Python.png">
 <img width="80" height="80" src="pictures/HTML.png">
 <img width="80" height="80" src="pictures/Kotlin.png">
