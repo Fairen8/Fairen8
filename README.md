@@ -12,13 +12,14 @@ href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures
 <h3><span>💻</span>Technologies and tools:</h3>
 <div>
 <img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
-<img width="80" height="80" src="pictures/Java.png">
+<img width="80" height="80" src="pictures/Python.png">
+<img width="80" height="80" src="pictures/HTML.png">
+<img width="80" height="80" src="pictures/Kotlin.png">
+<img width="60" height="80" src="pictures/SQL.png">
+<img width="80" height="80" src="pictures/Git.png">
+<img width="80" height="80" src="pictures/GitHub.png">
+<img width="80" height="80" src="pictures/InteliJ.png">
+<img width="80" height="80" src="pictures/Visual_Studio_Code.png">
 </div>
 
 
