@@ -6,7 +6,7 @@ I am a novice Backend developer.
 My journey started with learning python,
 but after three months of training, 
 I realized that this was not enough 
-and started learning HTML, Java, SQL 
+and started learning HTML, Java, SQL, Kotlin 
 and I'm not going to stop. In the future 
 I'm going to become a Fullstack developer.
 At the moment I am still studying, 
