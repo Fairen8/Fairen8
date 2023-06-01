@@ -23,9 +23,13 @@ projects!
 <div>
 <img title="Java" width="80" height="80" src="pictures/Java.png">
 <img title="Python" width="80" height="80" src="pictures/Python.png">
-<img title="HTML" width="80" height="80" src="pictures/HTML.png">
 <img title="Kotlin" width="80" height="80" src="pictures/Kotlin.png">
 <img title="SQLite" width="60" height="80" src="pictures/SQL.png">
+<img title="HTML" width="80" height="80" src="pictures/HTML.png">
+<img title="CSS" width="80" height="80" src="pictures/CSS.png">
+<img title="JavaScript" width="80" height="80" src="pictures/JavaScript.png">
+<img title="React" width="80" height="80" src="pictures/React.png">
+<img title="bash" width="80" height="80" src="pictures/bash.png">
 <img title="Git" width="80" height="80" src="pictures/Git.png">
 <img title="GitHub" width="80" height="80" src="pictures/GitHub.png">
 <img title="InteliJ" width="80" height="80" src="pictures/InteliJ.png">
