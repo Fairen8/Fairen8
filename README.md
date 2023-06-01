@@ -28,7 +28,7 @@ projects!
 <img title="Python" width="80" height="80" src="pictures/Python.png">
 <img title="HTML" width="80" height="80" src="pictures/HTML.png">
 <img title="Kotlin" width="80" height="80" src="pictures/Kotlin.png">
-<img title="SQLite" width="60" height="80" src="pictures/SQL.png">
+<img title="SQL" width="60" height="80" src="pictures/SQL.png">
 <img title="Git" width="80" height="80" src="pictures/Git.png">
 <img title="GitHub" width="80" height="80" src="pictures/GitHub.png">
 <img title="InteliJ" width="80" height="80" src="pictures/InteliJ.png">
@@ -39,8 +39,6 @@ projects!
 <table>
 <tr><th>Platform</th><th>Training course</th><th>Programming language</th><th>Certificate or diploma</th></tr>
 <tr><td>Mimo</td><td><a href="https://mimo.org/web/194/section/0">HTML</a></td><td>HTML</td><td><a href="https://disk.yandex.ru/i/gyYKdQh8GW0iUg">Certificate</a></td></tr>
-<tr><td>Mimo</td><td><a href="https://mimo.org/web/50/section/32">SQL</a></td><td>SQLite</td><td><a href="https://disk.yandex.ru/i/Q9bQKsjdnMllzg">Certificate</a></td></tr>
-
 </table>
 <hr>
 
