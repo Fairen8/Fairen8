@@ -21,19 +21,19 @@ projects!
 <hr>
 <h3 align="center"><span>💻</span>Technologies and tools</h3>
 <div>
-<img title="Java" width="80" height="80" src="pictures/Java.png">
-<img title="Python" width="80" height="80" src="pictures/Python.png">
-<img title="Kotlin" width="80" height="80" src="pictures/Kotlin.png">
-<img title="SQLite" width="60" height="80" src="pictures/SQL.png">
-<img title="HTML" width="80" height="80" src="pictures/HTML.png">
-<img title="CSS" width="80" height="80" src="pictures/CSS.png">
-<img title="JavaScript" width="80" height="80" src="pictures/JavaScript.png">
-<img title="React" width="80" height="80" src="pictures/React.png">
-<img title="bash" width="80" height="80" src="pictures/bash.png">
-<img title="Git" width="80" height="80" src="pictures/Git.png">
-<img title="GitHub" width="80" height="80" src="pictures/GitHub.png">
-<img title="InteliJ" width="80" height="80" src="pictures/InteliJ.png">
-<img title="Visual Studio Code" width="80" height="80" src="pictures/Visual_Studio_Code.png">
+<img title="Java" width="60" height="60" src="pictures/Java.png">
+<img title="Python" width="60" height="60" src="pictures/Python.png">
+<img title="Kotlin" width="60" height="60" src="pictures/Kotlin.png">
+<img title="SQLite" width="40" height="60" src="pictures/SQL.png">
+<img title="HTML" width="60" height="60" src="pictures/HTML.png">
+<img title="CSS" width="60" height="60" src="pictures/CSS.png">
+<img title="JavaScript" width="60" height="60" src="pictures/JavaScript.png">
+<img title="React" width="60" height="60" src="pictures/React.png">
+<img title="bash" width="60" height="60" src="pictures/bash.png">
+<img title="Git" width="60" height="60" src="pictures/Git.png">
+<img title="GitHub" width="60" height="60" src="pictures/GitHub.png">
+<img title="InteliJ" width="60" height="60" src="pictures/InteliJ.png">
+<img title="Visual Studio Code" width="60" height="60" src="pictures/Visual_Studio_Code.png">
 </div>
 <hr>
 <h3 align="center"><span>🎓</span>Сourses</h3>
