@@ -24,7 +24,7 @@ projects!
 <img title="Java" width="100" height="100" src="pictures/Java.png">
 <img title="Kotlin" width="100" height="100" src="pictures/Kotlin.png">
 <img title="Python" width="100" height="100" src="pictures/Python.png">
-<img title="SQLite" width="80" height="100" src="pictures/SQL.png">
+<img title="SQLite" width="75" height="100" src="pictures/SQL.png">
 </div>
 <hr>
 <h3 align="center"><span>🌐</span>Web development</h3>
