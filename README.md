@@ -19,29 +19,45 @@ projects!
 <a href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures/whatsapp.png"></a>
 </p>
 <hr>
-<h3 align="center"><span>💻</span>Programming languages</h3>
+<h3 align="center"><span>💾</span>Database</h3>
 <div align="center">
-<img title="Java" width="100" height="100" src="pictures/Java.png">
-<img title="Kotlin" width="100" height="100" src="pictures/Kotlin.png">
-<img title="Python" width="100" height="100" src="pictures/Python.png">
-<img title="SQLite" width="75" height="100" src="pictures/SQL.png">
+<img title="MySQL" width="100" height="100" src="pictures/Database/MySQL.png">
+<img title="PostgreSQL" width="100" height="100" src="pictures/Database/PostgreSQL.png">
 </div>
 <hr>
 <h3 align="center"><span>🌐</span>Web development</h3>
 <div align="center">
-<img title="HTML" width="100" height="100" src="pictures/HTML.png">
-<img title="CSS" width="100" height="100" src="pictures/CSS.png">
-<img title="JavaScript" width="100" height="100" src="pictures/JavaScript.png">
-<img title="React" width="100" height="100" src="pictures/React.png">
+<img title="HTML" width="100" height="100" src="pictures/Web_development/HTML.png">
+<img title="CSS" width="100" height="100" src="pictures/Web_development/CSS.png">
+<img title="React" width="100" height="100" src="pictures/Web_development/React.png">
+</div>
+<hr>
+<h3 align="center"><span>💻</span>Programming languages</h3>
+<div align="center">
+<img title="Java" width="100" height="100" src="pictures/Programming_languages/Java.png">
+<img title="Kotlin" width="100" height="100" src="pictures/Programming_languages/Kotlin.png">
+<img title="Python" width="100" height="100" src="pictures/Programming_languages/Python.png">
+<img title="JavaScript" width="100" height="100" src="pictures/Programming_languages/JavaScript.png">
+</div>
+<hr>
+<h3 align="center"><span>🔧</span>Programming tools</h3>
+<div align="center">
+<img title="HTTP" width="100" height="100" src="pictures/Programming_tools/HTTP.png">
+<img title="JUnit" width="100" height="100" src="pictures/Programming_tools/JUnit.png">
+<img title="Maven" width="100" height="100" src="pictures/Programming_tools/Maven.png">
+<img title="Spring" width="100" height="100" src="pictures/Programming_tools/Spring.png">
+<img title="Spring Boot" width="100" height="100" src="pictures/Programming_tools/Spring_Boot.png">
+<img title="Tomcat" width="100" height="100" src="pictures/Programming_tools/Tomcat.png">
 </div>
 <hr>
 <h3 align="center"><span>🔨</span>Tools</h3>
 <div align="center">
-<img title="bash" width="100" height="100" src="pictures/bash.png">
-<img title="Git" width="100" height="100" src="pictures/Git.png">
-<img title="GitHub" width="100" height="100" src="pictures/GitHub.png">
-<img title="InteliJ" width="100" height="100" src="pictures/InteliJ.png">
-<img title="Visual Studio Code" width="100" height="100" src="pictures/Visual_Studio_Code.png">
+<img title="bash" width="100" height="100" src="pictures/Tools/bash.png">
+<img title="Git" width="100" height="100" src="pictures/Tools/Git.png">
+<img title="GitHub" width="100" height="100" src="pictures/Tools/GitHub.png">
+<img title="InteliJ" width="100" height="100" src="pictures/Tools/InteliJ.png">
+<img title="Visual Studio Code" width="100" height="100" src="pictures/Tools/Visual_Studio_Code.png">
+<img title="Docker" width="100" height="100" src="pictures/Tools/Docker.png">
 </div>
 <hr>
 <h3 align="center"><span>🎓</span>Сourses</h3>
