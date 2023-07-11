@@ -42,7 +42,6 @@ projects!
 <hr>
 <h3 align="center"><span>🔧</span>Programming tools</h3>
 <div align="center">
-<img title="HTTP" width="100" height="100" src="pictures/Programming_tools/HTTP.png">
 <img title="JUnit" width="100" height="100" src="pictures/Programming_tools/JUnit.png">
 <img title="Maven" width="100" height="100" src="pictures/Programming_tools/Maven.png">
 <img title="Spring" width="100" height="100" src="pictures/Programming_tools/Spring.png">
@@ -52,6 +51,7 @@ projects!
 <hr>
 <h3 align="center"><span>🔨</span>Tools</h3>
 <div align="center">
+<img title="HTTP" width="100" height="100" src="pictures/Tools/HTTP.png">
 <img title="bash" width="100" height="100" src="pictures/Tools/bash.png">
 <img title="Git" width="100" height="100" src="pictures/Tools/Git.png">
 <img title="GitHub" width="100" height="100" src="pictures/Tools/GitHub.png">
