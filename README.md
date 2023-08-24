@@ -19,12 +19,6 @@ projects!
 <a href="https://wa.me/qr/KU67JD4TMTNFA1"><img width="20" height="20" src="pictures/whatsapp.png"></a>
 </p>
 <hr>
-<h3 align="center"><span>💾</span>Database</h3>
-<div align="center">
-<img title="MySQL" width="100" height="100" src="pictures/Database/MySQL.png">
-<img title="PostgreSQL" width="100" height="100" src="pictures/Database/PostgreSQL.png">
-</div>
-<hr>
 <h3 align="center"><span>🌐</span>Web development</h3>
 <div align="center">
 <img title="HTML" width="100" height="100" src="pictures/Web_development/HTML.png">
@@ -40,6 +34,14 @@ projects!
 <img title="JavaScript" width="100" height="100" src="pictures/Programming_languages/JavaScript.png">
 </div>
 <hr>
+<h3 align="center"><span>💾</span>Database</h3>
+<div align="center">
+<img title="MySQL" width="100" height="100" src="pictures/Database/MySQL.png">
+<img title="PostgreSQL" width="100" height="100" src="pictures/Database/PostgreSQL.png">
+<img title="Firebase" width="100" height="100" src="pictures/Database/Firebase.png">
+<img title="SQLite" width="100" height="100" src="pictures/Database/SQLite.png">
+</div>
+<hr>
 <h3 align="center"><span>🔧</span>Programming tools</h3>
 <div align="center">
 <img title="JUnit" width="100" height="100" src="pictures/Programming_tools/JUnit.png">
@@ -51,12 +53,12 @@ projects!
 <hr>
 <h3 align="center"><span>🔨</span>Tools</h3>
 <div align="center">
-<img title="HTTP" width="100" height="100" src="pictures/Tools/HTTP.png">
 <img title="bash" width="100" height="100" src="pictures/Tools/bash.png">
 <img title="Git" width="100" height="100" src="pictures/Tools/Git.png">
 <img title="GitHub" width="100" height="100" src="pictures/Tools/GitHub.png">
 <img title="InteliJ" width="100" height="100" src="pictures/Tools/InteliJ.png">
 <img title="Visual Studio Code" width="100" height="100" src="pictures/Tools/Visual_Studio_Code.png">
+<img title="Android Studio" width="100" height="100" src="pictures/Tools/Android_Studio.png">
 <img title="Docker" width="100" height="100" src="pictures/Tools/Docker.png">
 </div>
 <hr>
