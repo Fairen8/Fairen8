@@ -23,7 +23,6 @@ projects!
 <div align="center">
 <img title="HTML" width="100" height="100" src="pictures/Web_development/HTML.png">
 <img title="CSS" width="100" height="100" src="pictures/Web_development/CSS.png">
-<img title="React" width="100" height="100" src="pictures/Web_development/React.png">
 </div>
 <hr>
 <h3 align="center"><span>💻</span>Programming languages</h3>
@@ -31,7 +30,6 @@ projects!
 <img title="Java" width="100" height="100" src="pictures/Programming_languages/Java.png">
 <img title="Kotlin" width="100" height="100" src="pictures/Programming_languages/Kotlin.png">
 <img title="Python" width="100" height="100" src="pictures/Programming_languages/Python.png">
-<img title="JavaScript" width="100" height="100" src="pictures/Programming_languages/JavaScript.png">
 </div>
 <hr>
 <h3 align="center"><span>💾</span>Database</h3>
@@ -62,19 +60,11 @@ projects!
 <img title="Docker" width="100" height="100" src="pictures/Tools/Docker.png">
 </div>
 <hr>
-<h3 align="center"><span>🎓</span>Сourses</h3>
-<table>
-<tr><th>Platform</th><th>Training course</th><th>Programming language</th><th>Certificate or diploma</th></tr>
-<tr><td>Mimo</td><td><a href="https://mimo.org/web/194/section/0">HTML</a></td><td>HTML</td><td><a href="https://disk.yandex.ru/i/gyYKdQh8GW0iUg">Certificate</a></td></tr>
-<tr><td>Mimo</td><td><a href="https://mimo.org/web/50/section/32">SQL</a></td><td>SQLite</td><td><a href="https://disk.yandex.ru/i/Q9bQKsjdnMllzg">Certificate</a></td></tr>
-</table>
-<hr>
 <h3 align="center"><span>⚙️</span>GitHub statistics</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairen8&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fairen8&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairen8&theme=chartreuse_dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fairen8&theme=dark)](https://git.io/streak-stats)
 
 <h3><span>📚</span>Codewars:</h3>
 
